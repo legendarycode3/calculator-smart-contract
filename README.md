@@ -20,7 +20,7 @@ The main objectives of this project are to:
 2. Introduce beginners to decentralized application logic.
 3. Practice writing secure and efficient smart contracts.
 4. Apply input validation and error handling.
-5. Learn function
+5. Learn function visibility
 
 ##  Project Structure (Files)
 * ****`Calculator.sol`****: The main contract implementing the core simple functions.
