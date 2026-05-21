@@ -1,5 +1,5 @@
 ## Project Overview
-The Arithmetic
+The Arithmetic Calculator is a
 
 ##  Key Concepts Applied
 * ****Function Visibility (public):**** Controls who can access functions.
