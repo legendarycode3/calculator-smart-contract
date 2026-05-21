@@ -31,6 +31,7 @@
       cd calculator-smart-contract
     ```
 3.   Compile the smart contract:
+      `forge build`
 
 ## Foundry
 
