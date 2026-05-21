@@ -3,6 +3,7 @@
 ##  Key Concepts Applied
 * ****Function Visibility (public):**** Controls who can access functions.
 * ****Pure Functions:**** All calculations rely only on input parameters. for Lower gas usage
+* ****8. Unsigned Integer:****
 
 ##  Project Structure (Files)
 * ****`Calculator.sol`****: The main contract implementing the core simple functions.
