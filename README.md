@@ -26,6 +26,7 @@
    ```shell
       git clone https://github.com/legendarycode3/calculator-smart-contract
    ```
+2. Navigate to the directory you created and cloned the file to:
 
 ## Foundry
 
