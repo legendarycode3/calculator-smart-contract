@@ -6,6 +6,7 @@
 
 ##  Project Structure (Files)
 * ****`Calculator.sol`****: The main contract implementing the core simple functions.
+* ****`Calculator.t.sol`****:
 
 ## Technology Stack (Technologies Used)
 
