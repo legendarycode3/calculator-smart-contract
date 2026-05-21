@@ -35,9 +35,10 @@
 
 ### Testing the contract (Using Foundry Development Kit )
 Runing all tests:
-```shell
+  ```shell
      forge test
   ```
+Runing specific test:
 
 ## Foundry
 
