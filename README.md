@@ -17,7 +17,8 @@ This smart contract provides four (4) major arithmetic functionalities:
 ## Project Objectives
 The main objectives of this project are to:
 1. Demonstrate the fundamentals of Solidity programming.
-2. Introduce beginners to decentralized application logic
+2. Introduce beginners to decentralized application logic.
+3. Practice writing
 
 ##  Project Structure (Files)
 * ****`Calculator.sol`****: The main contract implementing the core simple functions.
