@@ -6,7 +6,7 @@
 
 ##  Project Structure (Files)
 * ****`Calculator.sol`****: The main contract implementing the core simple functions.
-* ****`Calculator.t.sol`****:
+* ****`Calculator.t.sol`****: tests to validate contract functionalities.
 
 ## Technology Stack (Technologies Used)
 
@@ -14,7 +14,7 @@
 
 ### Recommendation (For Beginners)
 
-****NOTE (Use Remix IDE, for quick prototyping):****  You can literally just copy the main contract source code and paste it on Remix IDE and learn along side how the code works while trying to build yours as you keep building.  Unit Test (suite) containing
+****NOTE (Use Remix IDE, for quick prototyping):****  You can literally just copy the main contract source code and paste it on Remix IDE and learn along side how the code works while trying to build yours as you keep building.  Unit Test (suite) containing 
 
 ## Usage
 
