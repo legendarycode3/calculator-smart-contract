@@ -16,6 +16,7 @@
 
 ## Usage
 
+### Building the Project (Using Remix IDE):
 
 ## Foundry
 
