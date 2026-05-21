@@ -1,4 +1,5 @@
 ## Project Overview
+The Arithmetic
 
 ##  Key Concepts Applied
 * ****Function Visibility (public):**** Controls who can access functions.
