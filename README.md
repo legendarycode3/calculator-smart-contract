@@ -21,7 +21,7 @@ The main objectives of this project are to:
 3. Practice writing secure and efficient smart contracts.
 4. Apply input validation and error handling.
 5. Learn function visibility and pure functions.
-6. Understand
+6. Understand smart contract
 
 ##  Project Structure (Files)
 * ****`Calculator.sol`****: The main contract implementing the core simple functions.
