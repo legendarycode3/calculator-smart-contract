@@ -2,7 +2,7 @@
 
 ##  Key Concepts Applied
 * ****Function Visibility (public):**** Controls who can access functions.
-* ****Pure Functions:****
+* ****Pure Functions:**** All calculations rely
 
 ##  Project Structure (Files)
 * ****`Calculator.sol`****: The main contract implementing the core simple functions.
