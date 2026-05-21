@@ -5,7 +5,7 @@
 ##  Key Concepts Applied
 
 ##  Project Structure (Files)
-* ****`Calculator.sol`****:
+* ****`Calculator.sol`****: The main contract implementing the core simple functions.
 
 ## Technology Stack (Technologies Used)
 
