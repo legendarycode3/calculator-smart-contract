@@ -1,8 +1,7 @@
 ## Project Overview
 
-##  Features
-
 ##  Key Concepts Applied
+* ****Function Visibility (public):****
 
 ##  Project Structure (Files)
 * ****`Calculator.sol`****: The main contract implementing the core simple functions.
