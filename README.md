@@ -3,7 +3,7 @@
 ##  Key Concepts Applied
 * ****Function Visibility (public):**** Controls who can access functions.
 * ****Pure Functions:**** All calculations rely only on input parameters. for Lower gas usage
-* ****8. Unsigned Integer Data Type (uint256):**** Stores non-negative
+* ****8. Unsigned Integer Data Type (uint256):**** Stores non-negative integers.
 
 ##  Project Structure (Files)
 * ****`Calculator.sol`****: The main contract implementing the core simple functions.
