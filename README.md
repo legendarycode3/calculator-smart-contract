@@ -15,7 +15,7 @@ This smart contract provides four (4) major arithmetic functionalities:
 * ****Error Handling:**** Human-readable revert messages help debugging.
 
 ## Project Objectives
-* The main
+The main objectives of this project are to:
 
 ##  Project Structure (Files)
 * ****`Calculator.sol`****: The main contract implementing the core simple functions.
