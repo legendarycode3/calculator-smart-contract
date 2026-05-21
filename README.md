@@ -44,6 +44,7 @@ Runing specific test:
   ```
 
 ## 📋Contract Details
+### Functions:
 
 ## Foundry
 
