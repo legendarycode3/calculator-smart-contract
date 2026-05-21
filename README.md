@@ -6,7 +6,7 @@
 * ****Usigned Integer Data Type (uint256):**** Stores non-negative integers. Used for arithmetic calculations.
 * ****Return Values:**** Specifies the output type returned by a function.
 * ****Arithmetic Operations:**** For Basic mathematical operators in Solidity.
-* ****Error Handling:****
+* ****Error Handling:**** Human-readable
 
 ##  Project Structure (Files)
 * ****`Calculator.sol`****: The main contract implementing the core simple functions.
