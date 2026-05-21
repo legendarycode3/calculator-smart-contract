@@ -12,6 +12,8 @@
 
 ### Recommendation (For Beginners)
 
+****NOTE (Use Remix IDE, for quick prototyping):****
+
 ## Foundry
 
 
