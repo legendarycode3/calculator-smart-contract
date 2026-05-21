@@ -30,6 +30,7 @@
    ```shell
       cd calculator-smart-contract
     ```
+3.   Compile the smart contract:
 
 ## Foundry
 
