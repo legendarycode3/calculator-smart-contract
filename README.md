@@ -1,7 +1,7 @@
 ## Project Overview
 
 ##  Key Concepts Applied
-* ****Function Visibility (public):****
+* ****Function Visibility (public):**** Controls who can access functions.
 
 ##  Project Structure (Files)
 * ****`Calculator.sol`****: The main contract implementing the core simple functions.
