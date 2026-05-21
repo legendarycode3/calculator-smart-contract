@@ -1,5 +1,5 @@
 ## Project Overview
-The Arithmetic Calculator is a
+The Arithmetic Calculator is a simple smart contract
 
 ##  Key Concepts Applied
 * ****Function Visibility (public):**** Controls who can access functions.
