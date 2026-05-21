@@ -5,6 +5,7 @@
 ##  Key Concepts Applied
 
 ##  Project Structure (Files)
+* ****`Calculator.sol`****:
 
 ## Technology Stack (Technologies Used)
 
