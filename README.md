@@ -46,6 +46,8 @@ Runing specific test:
 ## 📋Contract Details
 ### Functions:
 
+### Variables:
+
 ## Foundry
 
 
