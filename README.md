@@ -33,6 +33,8 @@
 3.   Compile the smart contract:
       `forge build`
 
+### Testing the contract
+
 ## Foundry
 
 
