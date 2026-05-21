@@ -4,6 +4,7 @@ This smart contract provides four (4) major arithmetic functionalities:
 * `Addition`.
 * `Subtraction`.
 * `Multiplication`.
+* `Division`.
 
 ##  Key Concepts Applied
 * ****Function Visibility (public):**** Controls who can access functions.
