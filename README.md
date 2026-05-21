@@ -9,7 +9,7 @@
 * ****`Calculator.t.sol`****:   Unit Test (suite) containing  tests to validate contract functionalities.
 
 ## Technology Stack (Technologies Used)
-* ****[Solidity](https://www.soliditylang.org/)**** - 
+* ****[Solidity](https://www.soliditylang.org/)**** - The programming language
 
 ### Prerequisites
 
