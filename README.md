@@ -17,6 +17,7 @@
 ## Usage
 
 ### Building the Project (Using Remix IDE):
+1. Copy the core smart contract file code `Calculator.sol` to Remix IDE (a browser based IDE, for quick prototyping).
 
 ## Foundry
 
