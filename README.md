@@ -3,6 +3,7 @@ The Arithmetic Calculator is a simple smart contract developed in Solidity that 
 This smart contract provides four (4) major arithmetic functionalities:
 * `Addition`.
 * `Subtraction`.
+* `Multiplication`.
 
 ##  Key Concepts Applied
 * ****Function Visibility (public):**** Controls who can access functions.
