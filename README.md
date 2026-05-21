@@ -1,5 +1,5 @@
 ## Project Overview
-The Arithmetic Calculator is a simple smart contract developed in Solidity that performs basic mathematical
+The Arithmetic Calculator is a simple smart contract developed in Solidity that performs basic mathematical operations on
 
 ##  Key Concepts Applied
 * ****Function Visibility (public):**** Controls who can access functions.
