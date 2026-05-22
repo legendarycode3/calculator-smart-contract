@@ -82,9 +82,10 @@ Runing specific test:
 ****`_firstNumber`****: The first unsigned integer value used in arithmetic operations. 
 ****`_secondNumber`****: The second unsigned integer value used in arithmetic operations. 
 
-****Notes:**** 
+### Notes: 
 * Both variables are function parameters not storednot stored on the blockchain. </br>
 * Since the contract only contains `pure` functions, it does not maintain or modify any contract state.
+* No persistent
 
 ## Foundry
 
