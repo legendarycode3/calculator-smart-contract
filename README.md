@@ -36,7 +36,7 @@ The main objectives of this project are to:
 
 ### Prerequisites
 * Solidity Compiler, Version ^0.8.19 or higher.
-* `Remix IDE` or 
+* `Remix IDE` or `Foundry Development Kit`
 
 ### Recommendation (For Beginners)
 
