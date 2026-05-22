@@ -80,7 +80,7 @@ Runing specific test:
 
 ### Variables:
 ****`_firstNumber`****: The first unsigned integer value used in arithmetic operations.
-****`_secondNumber`****:
+****`_secondNumber`****: The second
 
 ## Foundry
 
