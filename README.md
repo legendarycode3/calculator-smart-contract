@@ -73,6 +73,7 @@ Runing specific test:
 
 ## 📋Contract Details
 ### Functions:
+* ****`addNumbers`****:
 
 ### Variables:
 
