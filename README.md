@@ -15,7 +15,7 @@ This smart contract provides four (4) major arithmetic functionalities:
 * ****Error Handling:**** Human-readable revert messages help debugging. 
 * ****Blockchain Execution:**** Functions are intended to run on the Ethereum Virtual Machine(EVM).
 * ****Function Signatures:**** Each function has a unique name and parameter structure.
-* ****Immutable Logic:**** Logic remains unchanged
+* ****Immutable Logic:**** Logic remains unchanged after deployment
 
 
 
