@@ -35,6 +35,7 @@ The main objectives of this project are to:
 * ****[Visual Studio Code](https://code.visualstudio.com/)****  -  Install this IDE only if you are using foundry development kit rather than "Remix IDE" which is for quick prototying.
 
 ### Prerequisites
+Solidity Compiler, Version ^0.8.19 or higher.
 
 ### Recommendation (For Beginners)
 
