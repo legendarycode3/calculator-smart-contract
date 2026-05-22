@@ -79,7 +79,7 @@ Runing specific test:
 * ****`divideNumbers(uint256 _firstNumber, uint256 _secondNumber)`****: Divides `_firstNumber` by `_secondNumber` and returns the quotient. Includes a validation check to ensure the second number is greater than zero to avoid division by zero errors.
 
 ### Variables:
-****`_firstNumber`****: The first unsigned integer
+****`_firstNumber`****: The first unsigned integer value used in
 ****`_secondNumber`****:
 
 ## Foundry
