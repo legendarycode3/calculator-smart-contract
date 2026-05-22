@@ -76,7 +76,7 @@ Runing specific test:
 * ****`addNumbers(uint256 _firstNumber, uint256 _secondNumber`****: Adds `_firstNumber` and `_secondNumber` together and returns the sum.
 * ****`substractNumbers (uint256) _firstNumber, uint256 _secondNumber`****: Subtracts `_secondNumber` from `_firstNumber` and returns the result. Includes a validation check to ensure the first number is greater than or equal to the second number.
 * ****`multiplyNumbers(uint256 _firstNumber, uint256 _secondNumber)`****: Multiplies `_firstNumber` by `_secondNumber` and returns the product.
-* ****`divideNumbers(uint256 _firstNumber, uint256 _secondNumber)`****: Divides `_firstNumber` by `_secondNumber` and returns
+* ****`divideNumbers(uint256 _firstNumber, uint256 _secondNumber)`****: Divides `_firstNumber` by `_secondNumber` and returns the quotient.
 
 ### Variables:
 
