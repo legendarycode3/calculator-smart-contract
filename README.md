@@ -12,8 +12,8 @@ This smart contract provides four (4) major arithmetic functionalities:
 * ****Usigned Integer Data Type (uint256):**** Stores non-negative integers. Used for arithmetic calculations.
 * ****Return Values:**** Specifies the output type returned by a function.
 * ****Arithmetic Operations:**** For Basic mathematical operators in Solidity.
-* ****Error Handling:**** Human-readable revert messages help debugging.
-* ****Blockchain Execution:**** Functions are intended
+* ****Error Handling:**** Human-readable revert messages help debugging. 
+* ****Blockchain Execution:**** Functions are intended to run on
 
 
 ## Project Objectives
