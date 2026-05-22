@@ -14,7 +14,8 @@ This smart contract provides four (4) major arithmetic functionalities:
 * ****Arithmetic Operations:**** For Basic mathematical operators in Solidity.
 * ****Error Handling:**** Human-readable revert messages help debugging. 
 * ****Blockchain Execution:**** Functions are intended to run on the Ethereum Virtual Machine(EVM).
-* ****Function Signatures:**** Each function has a unique
+* ****Function Signatures:**** Each function has a unique name and
+
 
 
 
