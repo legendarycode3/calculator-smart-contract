@@ -13,7 +13,7 @@ This smart contract provides four (4) major arithmetic functionalities:
 * ****Return Values:**** Specifies the output type returned by a function.
 * ****Arithmetic Operations:**** For Basic mathematical operators in Solidity.
 * ****Error Handling:**** Human-readable revert messages help debugging.
-* ****Blockchain:****
+* ****Blockchain Execution:****
 
 
 ## Project Objectives
