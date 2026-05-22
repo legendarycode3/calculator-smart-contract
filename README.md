@@ -82,7 +82,7 @@ Runing specific test:
 ****`_firstNumber`****: The first unsigned integer value used in arithmetic operations. 
 ****`_secondNumber`****: The second unsigned integer value used in arithmetic operations
 
-****Notes:**** Both variables
+****Notes:**** Both variables are function
 
 ## Foundry
 
