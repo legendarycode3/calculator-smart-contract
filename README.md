@@ -84,7 +84,7 @@ Runing specific test:
 
 ****Notes:**** 
 * Both variables are function parameters not storednot stored on the blockchain. </br>
-* Since the contract only contains `pure` functions, it does not
+* Since the contract only contains `pure` functions, it does not maintain or
 
 ## Foundry
 
