@@ -73,7 +73,7 @@ Runing specific test:
 
 ## 📋Contract Details
 ### Functions:
-* ****`addNumbers(uint256`****:
+* ****`addNumbers(uint256 _firstNumber`****:
 
 ### Variables:
 
