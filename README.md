@@ -74,7 +74,7 @@ Runing specific test:
 ## 📋Contract Details
 ### Functions:
 * ****`addNumbers(uint256 _firstNumber, uint256 _secondNumber`****: Adds `_firstNumber` and `_secondNumber` together and returns the sum.
-* ****`substractNumbers (uint256) _firstNumber, uint256 _secondNumber`****: Subtracts _secondNumber
+* ****`substractNumbers (uint256) _firstNumber, uint256 _secondNumber`****: Subtracts `_secondNumber` from `_firstNumber`
 
 ### Variables:
 
